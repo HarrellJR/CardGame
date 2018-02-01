@@ -1,1 +1,1 @@
-# CardGame
+I think war is good to do as a card game because I think it would be interesting to make. Also I feel like War would be good to program as I feel like for the most part you'd really only need a random generater at most. 
